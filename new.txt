@@ -1,0 +1,4 @@
+1 stroka
+2 stroka
+3 stroka 
+5 stroka
