@@ -1,7 +1,0 @@
-facken
-evgen
-<<<<<<< HEAD
-satekilret
-=======
-smolin
-Everything up-to-date
